@@ -4,7 +4,7 @@
 
 A modern, full-stack web application for managing library members, featuring an ultra-modern React frontend and a simple Express backend.
 
-**Live Demo:** _[]_
+
 
 **GitHub:** [https://github.com/your-username/library-members](https://github.com/Pruthvi070/library-members)
 
