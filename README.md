@@ -4,7 +4,7 @@
 
 A modern, full-stack web application for managing library members, featuring an ultra-modern React frontend and a simple Express backend.
 
-**Live Demo:** _[Add your deployment link here if available]_
+**Live Demo:** _[]_
 
 **GitHub:** [https://github.com/your-username/library-members](https://github.com/Pruthvi070/library-members)
 
@@ -24,11 +24,33 @@ A modern, full-stack web application for managing library members, featuring an 
 
 
 
+
 ## Screenshots
 
-![Preview 1](https://raw.githubusercontent.com/Pruthvi070/library-members/main/preview/prev-1.png)
-![Preview 2](https://raw.githubusercontent.com/Pruthvi070/library-members/main/preview/prev-2.png)
-![Preview 3](https://raw.githubusercontent.com/Pruthvi070/library-members/main/preview/prev-3.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Pruthvi070/library-members/main/Preview/prev-1.png" alt="Preview 1" width="700"/>
+        <br />
+        <sub><b>Dashboard View</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Pruthvi070/library-members/main/Preview/prev-2.png" alt="Preview 2" width="700"/>
+        <br />
+        <sub><b>Add Member Modal</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://raw.githubusercontent.com/Pruthvi070/library-members/main/Preview/prev-3.png" alt="Preview 3" width="700"/>
+        <br />
+        <sub><b>Member Table with Status Chips</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
@@ -51,7 +73,7 @@ A modern, full-stack web application for managing library members, featuring an 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/library-members.git
+ [  git clone https://github.com/your-username/library-members.git](https://github.com/Pruthvi070/library-members.git)
    cd library-members
    ```
 
